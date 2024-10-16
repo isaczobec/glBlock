@@ -20,10 +20,15 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="src\Appliction.cpp" />
+    <ClCompile Include="src\InputManager.cpp" />
     <ClCompile Include="src\renderer.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="headers\InputManager.h" />
     <ClInclude Include="headers\renderer.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Shaders\BasicShader.shader" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
