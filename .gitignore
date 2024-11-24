@@ -1,0 +1,7 @@
+Dependencies/
+x64/
+glBlock.sln
+glBlock.vcxproj
+glBlock.vcxproj.filters
+glBlock.vcxproj.user
+.vs/
